@@ -1,2 +1,2 @@
 # C-Language
-Make is easy
+Make it easy
