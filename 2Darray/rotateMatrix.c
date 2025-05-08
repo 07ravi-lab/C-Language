@@ -2,9 +2,9 @@
 int main(){
     int n;
     printf("enter the number of rows");
-    scanf("%d",&n);
+    scanf("%d", &n);
     printf("enter the number of columns");
-    scanf("%d",&n);
+    scanf("%d", &n);
     printf("Eter the elements of matrix :\n");
     int arr[n][n];
     //input
@@ -22,7 +22,7 @@ int main(){
         }
     }
     //rotate
-    for(int i=0;i<n;i++){
+    for (int i=0;i<n;i++){
         int j=0;
         int k = n-1;
         while(j<k){

@@ -7,7 +7,7 @@ int main (){
         }
     }
     printf("\n");
-    for(int i=0;i<5;i++){
+    for (int i=0;i<5;i++){
         for(int j=0;j<5;j++){
             printf("%d ",arr[i][j]);
         }

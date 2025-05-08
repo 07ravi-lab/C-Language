@@ -12,7 +12,7 @@ int main() {
             maxCount = count;
             maxidx = i;
         }
-       printf("\n");
+       printf ("\n");
     }
          printf("maximumxcount is %d and their index number is %d",maxCount,maxidx);
     return 0;
